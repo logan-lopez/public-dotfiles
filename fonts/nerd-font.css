@@ -1,10 +1,10 @@
 @font-face {
   font-family: "Nerd Font";
   src:
-    url("./regular-nerd-font-complete.ttf") format("truetype"),
-    url("./bold-nerd-font-complete.ttf") format("truetype"),
-    url("./regular-italic-nerd-font-complete.ttf") format("truetype"),
-    url("./bold-italic-nerd-font-complete.ttf") format("truetype");
+    url("regular-nerd-font-complete.ttf") format("truetype"),
+    url("bold-nerd-font-complete.ttf") format("truetype"),
+    url("regular-italic-nerd-font-complete.ttf") format("truetype"),
+    url("bold-italic-nerd-font-complete.ttf") format("truetype");
   font-stretch: normal;
   font-style: normal;
   font-weight: 700;
